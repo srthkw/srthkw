@@ -22,7 +22,7 @@ A full-stack web application deployed end-to-end.
 
 🔗 Live Demo: https://crowd-shield-v1.vercel.app  
 📦 Repositories:
-• Frontend: https://github.com/srthkw/crowd-shield-frontend
-• Backend: https://github.com/srthkw/crowd-shield-backend
+- Frontend: https://github.com/srthkw/crowd-shield-frontend
+- Backend: https://github.com/srthkw/crowd-shield-backend
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
