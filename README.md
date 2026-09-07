@@ -20,7 +20,7 @@ A full-stack web application deployed end-to-end.
 - Database: MongoDB Atlas
 - Auth: JWT
 
-🔗 Live Demo: https://crowd-shield-v1.vercel.app  
+🔗 Live Demo: https://crowdshield.in
 📦 Repositories:   
 • Frontend: https://github.com/srthkw/crowd-shield-frontend   
 • Backend: https://github.com/srthkw/crowd-shield-backend
