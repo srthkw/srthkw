@@ -21,8 +21,23 @@ A full-stack web application deployed end-to-end.
 - Auth: JWT
 
 🔗 Live Demo: https://crowdshield.in
+
 📦 Repositories:   
 • Frontend: https://github.com/srthkw/crowd-shield-frontend   
 • Backend: https://github.com/srthkw/crowd-shield-backend
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💰 MoneyMap
+An interactive personal finance dashboard for tracking transactions, visualizing spending patterns, and understanding financial activity.
+
+- Frontend: React + Vite
+- Styling: Tailwind CSS
+- State Management: Context API
+- Data Visualization: Recharts
+- Persistence: LocalStorage
+
+🔗 Live Demo: https://usemoneymap.vercel.app
+
+📦 Repository: https://github.com/srthkw/moneymap
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
