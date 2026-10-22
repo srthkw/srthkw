@@ -13,7 +13,7 @@
 -->
 ## 🚀 Featured Project
 ### Crowd-Shield
-A full-stack web application deployed end-to-end.
+A full-stack event management and crowd safety platform designed to improve event coordination and attendee safety.
 
 - Frontend: React + Tailwind (Vercel)
 - Backend: Node.js + Express (Render)
